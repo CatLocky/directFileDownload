@@ -1,7 +1,6 @@
 # directFileDownload
 Directly download files from Discord without needing to open browser
 
-# Install Guide
 ## First Time Setup
 Vencord is not modular, so you have to build from source to add custom plugins.
 Follow this guide for getting set up: https://docs.vencord.dev/installing/custom-plugins/
