@@ -1,10 +1,6 @@
 # directFileDownload
 Directly download files from Discord without needing to open browser
 
-**Please star my project if you're really enjoying it!**
-![Star my project](./images/star-my-project.png)
-
-
 # Install Guide
 ## First Time Setup
 Vencord is not modular, so you have to build from source to add custom plugins.
@@ -24,4 +20,4 @@ You will have to make sure to keep up with the latest changes to fix issues and 
 git pull
 ```
 
-The same [Install Guide](https://discord.com/channels/1015060230222131221/1257038407503446176/1257038407503446176) is published in [Vencord's Discord Server](https://discord.gg/D9uwnFnqmd)
+The [Official Install Guide](https://discord.com/channels/1015060230222131221/1257038407503446176/1257038407503446176) is published in [Vencord's Discord Server](https://discord.gg/D9uwnFnqmd)
