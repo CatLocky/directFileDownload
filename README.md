@@ -7,14 +7,14 @@ Follow this guide for getting set up: https://docs.vencord.dev/installing/custom
 
 ## How to install a plugin
 1. Direct your terminal to the `userplugins` folder, e.g. `cd src/userplugins`. If you're confused, read the guide above
-2. Each plugin post will contain a GitHub repo link, like `https://github.com/PluginAuthor/CoolPlugin`. Copy it
+2. Copy a GitHub repo link — `https://github.com/CatLocky/directFileDownload`.
 3. Inside your terminal, run
 ```sh
-git clone https://github.com/...
+git clone https://github.com/CatLocky/directFileDownload
 ```
 
-## How to update plugins
-You will have to make sure to keep up with the latest changes to fix issues and get new features. You can update a plugin by directing your terminal to its folder (`cd src/userplugins/coolPlugin`) and running:
+## How to update DirectFileDownload
+You will have to make sure to keep up with the latest changes to fix issues and get new features. You can update DirectFileDownload by directing your terminal to its folder (`cd src/userplugins/directFileDownload`) and running:
 ```sh
 git pull
 ```
